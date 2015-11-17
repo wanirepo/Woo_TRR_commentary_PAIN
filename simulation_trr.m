@@ -79,6 +79,8 @@ end
 
 disp(' DONE.');
 
+%% MAKINGE PLOTS =========================================================
+
 %% PLOTS: HOMOGENEOUS GROUPS
 close all;
 
