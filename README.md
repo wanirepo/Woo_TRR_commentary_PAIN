@@ -8,7 +8,7 @@ You can download the paper from http://wanirepo.github.io/pdfs/Woo\_2015\_PAIN\_
 
 ## Overview
 
-![image]()
+![image](https://github.com/wanirepo/Woo_TRR_commentary_PAIN/blob/master/Figure1.pdf)
 
 ### An illustration of the effects of sample heterogeneity on test-retest reliability of pain ratings.
 
