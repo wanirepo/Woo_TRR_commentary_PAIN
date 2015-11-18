@@ -4,7 +4,8 @@ A simulation code (matlab) for
 
 Woo, C.-W. & Wager, T. D. 2015, What reliability can and cannot tell us about pain report and pain neuroimaging. PAIN
 
-You can download the paper from http://wanirepo.github.io/pdfs/Woo\_2015\_PAIN\_TRR.pdf
+You can download the paper from [here](http://wanirepo.github.io/pdfs/Woo_2015_PAIN_TRR.pdf)
+
 
 ## Overview
 
